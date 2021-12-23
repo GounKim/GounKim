@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Goun
+#### I am practicing GitHub Readme.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: Java / C++ / Python / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **GounKim/GounKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
